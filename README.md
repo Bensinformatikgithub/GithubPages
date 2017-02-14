@@ -11,7 +11,7 @@ Informatik-Projekt
 </h2>
 
 <ul>
-<li>Level 1: The Need for Programming Languages </li>
+<li> <a href="#lvl1"> Level 1: The Need for Programming Languages</a></li>
 <li> Level 2: Using Simple Commands</li>
 <li>  Level 3: Funktionen erstellen</li>
 <li>Level 4: Functions and Top-Down Design </li>
@@ -23,7 +23,7 @@ Informatik-Projekt
 
 
 <h2>
-Level 1: The Need For Programming Languages:
+<a id="lvl1"> Level 1: The Need For Programming Languages:</a>
 </h2>
 
 <p>
