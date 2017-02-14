@@ -20,3 +20,10 @@ Informatik-Projekt
 <li> Level 7: Looping and Random Numbers</li>
 <li> Level 10: Buttons on the Screen</li>
 </ul>
+
+<h2>
+Level 1: The Need For Programming Languages:
+</h2>
+<p>
+Dies ist das erste Kapitel/Level des Kurses. Hier wird einem vermittelt, warum Programmiersprachen wichtig sind und wie sie benutzt werden. Um dies zu tun muss man eine Anleitung schreiben, wie Legosteine miteinander zu verbinden sind. Diese Anleitung ist meist nicht eindeutig, da die normale Sprache auch nicht eindeutug ist. Im Gegensatz dazu muss die Programmiersprache eindeutig sein, damit der Computer (Hier der "Partner") die Befehle richtig ausführen kann und die Legosteine richtig verbunden werden, bzw. das Programm funktioniert.
+</p>
