@@ -11,10 +11,10 @@ Informatik-Projekt
 </h2>
 
 <ul>
-<li> <a href="#lvl1"> Level 1: The Need for Programming Languages</a></li>
-<li> Level 2: Using Simple Commands</li>
-<li>  Level 3: Funktionen erstellen</li>
-<li>Level 4: Functions and Top-Down Design </li>
+<li><a href="#lvl1"> Level 1: The Need for Programming Languages</a></li>
+<li><a href="#lvl2"> Level 2: Using Simple Commands</a></li>
+<li><a href="#lvl3"> Level 3: Funktionen erstellen</a></li>
+<li><a href="#lvl4"> Level 4: Functions and Top-Down Design </a></li>
 <li>Level 5: APIs and Function Parameter </li>
 <li> Level 6: Creating Functions with Parameters</li>
 <li> Level 7: Looping and Random Numbers</li>
