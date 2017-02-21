@@ -3,11 +3,11 @@ Informatik-Projekt
 </h1>
 
 <p>
-  Dies ist die Dokumentation für das Informatik Projekt von Johanna und Ben.
+  Dies ist die Dokumentation für das Informatik Projekt von Johanna und Ben. Dieses Mal wurde sie auf Github Pages umgewandelt.
 </p>
 
 <h2>
-  Inhalt
+ <a href="Inh"> Inhalt <a>
 </h2>
 
 <ul>
@@ -23,7 +23,7 @@ Informatik-Projekt
 
 
 <h2>
-<a id="lvl1"> Level 1: The Need For Programming Languages:</a>
+<a id="lvl1"> Level 1: The Need For Programming Languages: <a href="#Ihn"> [zurück zum Inhaltsverzeichnis] </a>
 </h2>
 
 <p>
