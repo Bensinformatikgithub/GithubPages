@@ -7,7 +7,7 @@ Informatik-Projekt
 </p>
 
 <h2>
- <a href="Inh"> Inhalt <a>
+<a href="Inh"> Inhalt </a>
 </h2>
 
 <ul>
