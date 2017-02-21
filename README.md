@@ -15,10 +15,10 @@ Informatik-Projekt
 <li><a href="#lvl2"> Level 2: Using Simple Commands</a></li>
 <li><a href="#lvl3"> Level 3: Funktionen erstellen</a></li>
 <li><a href="#lvl4"> Level 4: Functions and Top-Down Design </a></li>
-<li>Level 5: APIs and Function Parameter </li>
-<li> Level 6: Creating Functions with Parameters</li>
-<li> Level 7: Looping and Random Numbers</li>
-<li> Level 10: Buttons on the Screen</li>
+<li><a href="#lvl5"> Level 5: APIs and Function Parameter </a></li>
+<li><a href="#lvl6"> Level 6: Creating Functions with Parameters</a></li>
+<li><a href="#lvl7"> Level 7: Looping and Random Numbers</a></li>
+<li><a href="#lvl8"> Level 10: Buttons on the Screen</a></li>
 </ul>
 
 
@@ -31,7 +31,7 @@ Dies ist das erste Kapitel/Level des Kurses. Hier wird einem vermittelt, warum P
 </p>
 
 <h2>
-Level 2: Using Simple Commands:
+<a id="lvl2"> Level 2: Using Simple Commands: </a>
 </h2>
 
 <p>
@@ -39,7 +39,7 @@ Hier werden einem die ersten Befehle nähergebracht. Diese werden benutzt um ein
 </p>
 
 <h2>
-Level 3: Funktionen erstellen:
+<a id="lvl3"> Level 3: Funktionen erstellen:</a>
 </h2>
 
 <p>
@@ -47,7 +47,8 @@ In diesem Level wird z.B. das Problem mit 'turnLeft' und 'turnRight' wieder aufg
 </p>
 
 <h2>
-Level 4: Functions and Top-Down Design:
+
+<a id="lvl4"> Level 4: Functions and Top-Down Design:</a>
 </h2>
 
 <p>
@@ -55,7 +56,8 @@ Level 4 vertieft das Arbeiten mit Funktionen, und führt das 'Top-Down Design' e
 </p>
 
 <h2>
-Level 5: APIs and Function Parameter:
+<a id="lvl5"> Level 5: APIs and Function Parameter:</a>
+
 </h2>
 
 <p>
@@ -63,7 +65,8 @@ API's also Application Programming Interfaces sind in Wege um deine Befehle bess
 </p>
 
 <h2>
-Level 6: Creating Functions with Parameters:
+<a id="lvl6"> Level 6: Creating Functions with Parameters:</a>
+
 </h2>
 
 <p>
@@ -71,7 +74,8 @@ Hier wird einem nun die Möglichkeit gegeben, diese Parameter auch in Funktionen
 </p>
 
 <h2>
-Level 7: Looping and Random Numbers:
+<a id="lvl7"> Level 7: Looping and Random Numbers:</a>
+
 </h2>
 
 <p>
