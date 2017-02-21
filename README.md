@@ -35,7 +35,9 @@ Dies ist das erste Kapitel/Level des Kurses. Hier wird einem vermittelt, warum P
 <h2>
 <a id="lvl2"> Level 2: Using Simple Commands: </a>
 </h2>
-
+<h3>
+<a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
+</h3>
 <p>
 Hier werden einem die ersten Befehle nähergebracht. Diese werden benutzt um einen Pfeil (hier "Turtle" genannt) auf dem Bildschirm automatisch zu bewegen. Man bekommt hier einfache Befehle vorgestellt, wie z.B. 'moveForward', welcher bewirkt, das sich der Pfeil um 25 Pixel nach vorne bewegt. Hier findet man die ersten Probleme: man hat nur den Befehl 'turnLeft' und keinen 'turnRight' Befehl. 'turnLeft' lässt den Zeiger um 90 Grad nach links drehen. Dies bedeutet, dass man den Zeiger drei mal nach links drehen muss um ihn aus der Ausgangsposition aus nach rechts zu drehen. In diesem Level muss man durch das Bewegen des Zeigers mehrere Figuren zeichnen.
 </p>
@@ -43,7 +45,9 @@ Hier werden einem die ersten Befehle nähergebracht. Diese werden benutzt um ein
 <h2>
 <a id="lvl3"> Level 3: Funktionen erstellen:</a>
 </h2>
-
+<h3>
+<a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
+</h3>
 <p>
 In diesem Level wird z.B. das Problem mit 'turnLeft' und 'turnRight' wieder aufgregriffen, in dem man nun zum ersten Mal eine Funktion erstellt, welche durch das Ausführen eines Befehls mehrere vorher definierte Befehle ausführt. Man erstellt, um 'turnRight' zu erschaffen, eine Funktion mit dem Namen 'turnRight' die den Befehl 'turnLeft' drei mal beinhaltet. Nun kann man sich mit dem Befehl 'turnRight' nach rechts drehen.
 </p>
@@ -52,7 +56,9 @@ In diesem Level wird z.B. das Problem mit 'turnLeft' und 'turnRight' wieder aufg
 
 <a id="lvl4"> Level 4: Functions and Top-Down Design:</a>
 </h2>
-
+<h3>
+<a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
+</h3>
 <p>
 Level 4 vertieft das Arbeiten mit Funktionen, und führt das 'Top-Down Design' ein. Das 'Top-Down Design' bedeutet, dass man möglichst übersichtlich arbeitet und zuerst die nötigen Funktionen erstellt um sie dann später ein zu setzen. Dies führt dazu, dass man später den Code besser überblicken und Probleme leichter beseitigen kann.
 </p>
@@ -61,7 +67,9 @@ Level 4 vertieft das Arbeiten mit Funktionen, und führt das 'Top-Down Design' e
 <a id="lvl5"> Level 5: APIs and Function Parameter:</a>
 
 </h2>
-
+<h3>
+<a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
+</h3>
 <p>
 API's also Application Programming Interfaces sind in Wege um deine Befehle besser zu kontrollieren. Wenn man also den Befehl "moveForward()" ausführt, bewegt der zeiger sich um 25 pixel nach vorne. Dieser Wert wird von der Programmiersprache vorher festgelegt. Man kann nun in den Klammern einen Wert eingeben. Dieser Wert bestimmt in diesem Fall, um wie viele Pixel sich der Zeiger nach vorne bewegt. Wenn man also den Befehl "moveForward (60)" ausführt, bewegt sich der Zeiger um 60 Pixel nach vorne. Das gleiche funktioniert auch mit "turnLeft ()" hier ist der Parameter die Anzahl an Grad, um die sich der Zeiger nach links dreht. Diese Parameter werden außerdem auch in dem Befehl "penColour", bzw jetzt "penRGB" eingeführt. So kann man die Farbe des Benutzten Pinsel (Pen) verändern.
 </p>
@@ -70,7 +78,9 @@ API's also Application Programming Interfaces sind in Wege um deine Befehle bess
 <a id="lvl6"> Level 6: Creating Functions with Parameters:</a>
 
 </h2>
-
+<h3>
+<a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
+</h3>
 <p>
 Hier wird einem nun die Möglichkeit gegeben, diese Parameter auch in Funktionen zu benutzen. Wenn man jetzt also eine Funktion namens "function drawSquare (size)" erstellt, kann man in die Parameter der Befehle innerhalb der Funktion (size) einfüllen. So kann man später die Funktionsweise der Funktion kontrollieren. In diesem Fall ist es die Größe des erstellten Quadrats.
 </p>
@@ -79,7 +89,9 @@ Hier wird einem nun die Möglichkeit gegeben, diese Parameter auch in Funktionen
 <a id="lvl7"> Level 7: Looping and Random Numbers:</a>
 
 </h2>
-
+<h3>
+<a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
+</h3>
 <p>
 Als Neuigkeit werden in diesem Level Loops (Wiederholungen) und zufällige Parameter eingeführt. Loops sind ein Programmierkonstrukt, welches eine Gruppe von Befehlen wiederholt. Der Loop "for (var i=0; i< (number); i++)" ermöglicht eine beliebige Wiederholung von Befehlen, diese kann man in dem Feld "(number)" regulieren. Die Befehle, die ausgefürht werden sollen, könne einfach eingefügt werden.
 </p>
