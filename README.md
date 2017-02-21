@@ -35,9 +35,7 @@ Dies ist das erste Kapitel/Level des Kurses. Hier wird einem vermittelt, warum P
 <h2>
 <a id="lvl2"> Level 2: Using Simple Commands: </a>
 </h2>
-<h3>
-<a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
-</h3>
+
 <p>
 Hier werden einem die ersten Befehle nähergebracht. Diese werden benutzt um einen Pfeil (hier "Turtle" genannt) auf dem Bildschirm automatisch zu bewegen. Man bekommt hier einfache Befehle vorgestellt, wie z.B. 'moveForward', welcher bewirkt, das sich der Pfeil um 25 Pixel nach vorne bewegt. Hier findet man die ersten Probleme: man hat nur den Befehl 'turnLeft' und keinen 'turnRight' Befehl. 'turnLeft' lässt den Zeiger um 90 Grad nach links drehen. Dies bedeutet, dass man den Zeiger drei mal nach links drehen muss um ihn aus der Ausgangsposition aus nach rechts zu drehen. In diesem Level muss man durch das Bewegen des Zeigers mehrere Figuren zeichnen.
 </p>
