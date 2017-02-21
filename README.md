@@ -25,9 +25,9 @@ Informatik-Projekt
 <h2>
 <a id="lvl1"> Level 1: The Need For Programming Languages: </a>
 </h2>
-<h3>
+<h4>
 <a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
-</h3>
+</h4>
 <p>
 Dies ist das erste Kapitel/Level des Kurses. Hier wird einem vermittelt, warum Programmiersprachen wichtig sind und wie sie benutzt werden. Um dies zu tun muss man eine Anleitung schreiben, wie Legosteine miteinander zu verbinden sind. Diese Anleitung ist meist nicht eindeutig, da die normale Sprache auch nicht eindeutug ist. Im Gegensatz dazu muss die Programmiersprache eindeutig sein, damit der Computer (Hier der "Partner") die Befehle richtig ausführen kann und die Legosteine richtig verbunden werden, bzw. das Programm funktioniert.
 </p>
@@ -41,6 +41,9 @@ Dies ist das erste Kapitel/Level des Kurses. Hier wird einem vermittelt, warum P
 <p>
 Hier werden einem die ersten Befehle nähergebracht. Diese werden benutzt um einen Pfeil (hier "Turtle" genannt) auf dem Bildschirm automatisch zu bewegen. Man bekommt hier einfache Befehle vorgestellt, wie z.B. 'moveForward', welcher bewirkt, das sich der Pfeil um 25 Pixel nach vorne bewegt. Hier findet man die ersten Probleme: man hat nur den Befehl 'turnLeft' und keinen 'turnRight' Befehl. 'turnLeft' lässt den Zeiger um 90 Grad nach links drehen. Dies bedeutet, dass man den Zeiger drei mal nach links drehen muss um ihn aus der Ausgangsposition aus nach rechts zu drehen. In diesem Level muss man durch das Bewegen des Zeigers mehrere Figuren zeichnen.
 </p>
+<h4>
+<a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
+</h4>
 
 <h2>
 <a id="lvl3"> Level 3: Funktionen erstellen:</a>
@@ -50,6 +53,9 @@ Hier werden einem die ersten Befehle nähergebracht. Diese werden benutzt um ein
 </h3>
 <p>
 In diesem Level wird z.B. das Problem mit 'turnLeft' und 'turnRight' wieder aufgregriffen, in dem man nun zum ersten Mal eine Funktion erstellt, welche durch das Ausführen eines Befehls mehrere vorher definierte Befehle ausführt. Man erstellt, um 'turnRight' zu erschaffen, eine Funktion mit dem Namen 'turnRight' die den Befehl 'turnLeft' drei mal beinhaltet. Nun kann man sich mit dem Befehl 'turnRight' nach rechts drehen.
+<h4>
+<a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
+</h4>
 </p>
 
 <h2>
