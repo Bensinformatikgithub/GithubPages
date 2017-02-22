@@ -130,21 +130,14 @@ Als Neuigkeit werden in diesem Level Loops (Wiederholungen) und zufällige Param
 </thead>
 <tbody>
 <tr>
-<td>Spalte 1.1</td>
+<td><a href="https://studio.code.org">Bilder sind Screenshots von der Code.org Oberfläche</a></td>
 
 </tr>
 <tr>
-<td>Spalte 1.2</td>
+<td><a href="http://www.staggeringbeauty.com/">Inspiration</a></td>
 
 </tr>
-<tr>
-<td>Spalte 1.3</td>
 
-</tr>
-<tr>
-<td>Spalte 1.4</td>
-</tr>
-</tbody>
 </table>
 <p>
 <a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
