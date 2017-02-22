@@ -41,7 +41,7 @@ Hier werden einem die ersten Befehle nähergebracht. Diese werden benutzt um ein
 </p>
 <p>
 <img src="Leverl 2.PNG" alt="Leverl 2.PNG" style="width:254px;height:272px;border:1;">
-
+</p>
 <p>
 <a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
 </p>
@@ -52,6 +52,10 @@ Hier werden einem die ersten Befehle nähergebracht. Diese werden benutzt um ein
 
 <p>
 In diesem Level wird z.B. das Problem mit 'turnLeft' und 'turnRight' wieder aufgregriffen, in dem man nun zum ersten Mal eine Funktion erstellt, welche durch das Ausführen eines Befehls mehrere vorher definierte Befehle ausführt. Man erstellt, um 'turnRight' zu erschaffen, eine Funktion mit dem Namen 'turnRight' die den Befehl 'turnLeft' drei mal beinhaltet. Nun kann man sich mit dem Befehl 'turnRight' nach rechts drehen.
+</p>
+
+<p>
+<img src="Turn Right.PNG.PNG" alt="Turn Right.PNG" style="width:376px;height:662px;border:1;">
 </p>
 <p>
 <a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
@@ -91,6 +95,9 @@ API's also Application Programming Interfaces sind in Wege um deine Befehle bess
 Hier wird einem nun die Möglichkeit gegeben, diese Parameter auch in Funktionen zu benutzen. Wenn man jetzt also eine Funktion namens "function drawSquare (size)" erstellt, kann man in die Parameter der Befehle innerhalb der Funktion (size) einfüllen. So kann man später die Funktionsweise der Funktion kontrollieren. In diesem Fall ist es die Größe des erstellten Quadrats.
 </p>
 <p>
+<img src="Funktion mit Parametern.PNG" alt="Funktion mit Parametern.PNG" style="width:406px;height:480px;border:1;">
+</p>
+<p>
 <a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
 </p>
 
@@ -100,7 +107,10 @@ Hier wird einem nun die Möglichkeit gegeben, diese Parameter auch in Funktionen
 </h2>
 
 <p>
-Als Neuigkeit werden in diesem Level Loops (Wiederholungen) und zufällige Parameter eingeführt. Loops sind ein Programmierkonstrukt, welches eine Gruppe von Befehlen wiederholt. Der Loop <i>for (var i=0; i< (number); i++)</i> ermöglicht eine beliebige Wiederholung von Befehlen, diese kann man in dem Feld <i>(number)</i> regulieren. Die Befehle, die ausgefürht werden sollen, könne einfach eingefügt werden.
+Als Neuigkeit werden in diesem Level Loops (Wiederholungen) und zufällige Parameter eingeführt. Loops sind ein Programmierkonstrukt, welches eine Gruppe von Befehlen wiederholt. Der Loop <i>for (var i=0; i< (number); i++) </i> ermöglicht eine beliebige Wiederholung von Befehlen, diese kann man in dem Feld <i>(number)</i> regulieren. Die Befehle, die ausgefürht werden sollen, könne einfach eingefügt werden.
+</p>
+<p>
+<img src="asdfghjk.PNG" alt="asdfghjk.PNG" style="width:472px;height:166px;border:1;">
 </p>
 <p>
 <a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
