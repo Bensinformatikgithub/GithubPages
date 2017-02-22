@@ -119,7 +119,6 @@ Als Neuigkeit werden in diesem Level Loops (Wiederholungen) und zufällige Param
 
 <h2>
 <a id="Quell"> Quellen:</a>
-
 </h2>
 
 <table>
@@ -129,6 +128,7 @@ Als Neuigkeit werden in diesem Level Loops (Wiederholungen) und zufällige Param
 
 </tr>
 </tbody>
+
 <tbody>
 <tr>
 <td><a href="https://studio.code.org">Bilder sind Screenshots von der Code.org Oberfläche</a></td>
