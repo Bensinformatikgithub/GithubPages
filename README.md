@@ -40,7 +40,7 @@ Dies ist das erste Kapitel/Level des Kurses. Hier wird einem vermittelt, warum P
 Hier werden einem die ersten Befehle nähergebracht. Diese werden benutzt um einen Pfeil (hier "Turtle" genannt) auf dem Bildschirm automatisch zu bewegen. Man bekommt hier einfache Befehle vorgestellt, wie z.B. 'moveForward', welcher bewirkt, das sich der Pfeil um 25 Pixel nach vorne bewegt. Hier findet man die ersten Probleme: man hat nur den Befehl 'turnLeft' und keinen 'turnRight' Befehl. 'turnLeft' lässt den Zeiger um 90 Grad nach links drehen. Dies bedeutet, dass man den Zeiger drei mal nach links drehen muss um ihn aus der Ausgangsposition aus nach rechts zu drehen. In diesem Level muss man durch das Bewegen des Zeigers mehrere Figuren zeichnen.
 </p>
 <p>
-<img src="Leverl 2.PNG" alt="Leverl 2.PNG" style="width:254px;height:272px;border:1;">
+<img src="Leverl 2.PNG" alt="Leverl 2.PNG" style="width:190px;height:204px;border:1;">
 </p>
 <p>
 <a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
@@ -55,7 +55,7 @@ In diesem Level wird z.B. das Problem mit 'turnLeft' und 'turnRight' wieder aufg
 </p>
 
 <p>
-<img src="Turn Right.PNG.PNG" alt="Turn Right.PNG" style="width:376px;height:662px;border:1;">
+<img src="Turn Right.PNG" alt="Turn Right.PNG" style="width:282px;height:496px;border:1;">
 </p>
 <p>
 <a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
@@ -95,7 +95,7 @@ API's also Application Programming Interfaces sind in Wege um deine Befehle bess
 Hier wird einem nun die Möglichkeit gegeben, diese Parameter auch in Funktionen zu benutzen. Wenn man jetzt also eine Funktion namens "function drawSquare (size)" erstellt, kann man in die Parameter der Befehle innerhalb der Funktion (size) einfüllen. So kann man später die Funktionsweise der Funktion kontrollieren. In diesem Fall ist es die Größe des erstellten Quadrats.
 </p>
 <p>
-<img src="Funktion mit Parametern.PNG" alt="Funktion mit Parametern.PNG" style="width:406px;height:480px;border:1;">
+<img src="Funktion mit Parametern.PNG" alt="Funktion mit Parametern.PNG" style="width:304px;height:360px;border:1;">
 </p>
 <p>
 <a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
@@ -110,7 +110,7 @@ Hier wird einem nun die Möglichkeit gegeben, diese Parameter auch in Funktionen
 Als Neuigkeit werden in diesem Level Loops (Wiederholungen) und zufällige Parameter eingeführt. Loops sind ein Programmierkonstrukt, welches eine Gruppe von Befehlen wiederholt. Der Loop <i>for (var i=0; i< (number); i++) </i> ermöglicht eine beliebige Wiederholung von Befehlen, diese kann man in dem Feld <i>(number)</i> regulieren. Die Befehle, die ausgefürht werden sollen, könne einfach eingefügt werden.
 </p>
 <p>
-<img src="asdfghjk.PNG" alt="asdfghjk.PNG" style="width:472px;height:166px;border:1;">
+<img src="asdfghjk.PNG" alt="asdfghjk.PNG" style="width:354px;height:124px;border:1;">
 </p>
 <p>
 <a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
