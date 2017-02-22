@@ -116,4 +116,29 @@ Als Neuigkeit werden in diesem Level Loops (Wiederholungen) und zufällige Param
 <a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
 </p>
 
+<table>
+<thead>
+<tr>
+<th>Spalte 1</th>
+
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Spalte 1.1</td>
+
+</tr>
+<tr>
+<td>Spalte 1.2</td>
+
+</tr>
+<tr>
+<td>Spalte 1.3</td>
+
+</tr>
+<tr>
+<td>Spalte 1.4</td>
+</tr>
+</tbody>
+</table>
 
