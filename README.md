@@ -117,28 +117,27 @@ Als Neuigkeit werden in diesem Level Loops (Wiederholungen) und zufällige Param
 <a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
 </p>
 
-<h2>
-<a id="Quell"> Quellen:</a>
-</h2>
+
 
 <table>
 <thead>
 <tr>
-<th>Spalte 1</th>
+<th>
+<h2>
+<a id="Quell"> Quellen:</a>
+</h2>
+</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Spalte 1.1</td>
+<td><a href="https://github.com/StefanScheunemann/Grundlagen-html">Stefans Grundlagen Dokument</a></td>
 </tr>
 <tr>
-<td>Spalte 1.2</td>
+<td><a href="https://studio.code.org">Bilder sind Screenshots von der Code.org Oberfläche</a></td>
 </tr>
 <tr>
-<td>Spalte 1.3</td>
-</tr>
-<tr>
-<td>Spalte 1.4</td>
+<td><a href="http://www.staggeringbeauty.com/">Inspiration</a></td>
 </tr>
 </tbody>
 </table>
