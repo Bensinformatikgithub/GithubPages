@@ -19,6 +19,7 @@ Informatik-Projekt
 <li><a href="#lvl6"> Level 6: Creating Functions with Parameters</a></li>
 <li><a href="#lvl7"> Level 7: Looping and Random Numbers</a></li>
 <li><a href="#lvl8"> Level 10: Buttons on the Screen</a></li>
+<li><a href="#Quell"> Quellen</a></li>
 </ul>
 
 
@@ -116,10 +117,14 @@ Als Neuigkeit werden in diesem Level Loops (Wiederholungen) und zufällige Param
 <a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
 </p>
 
+<h2>
+<a id="Quell"> Quellen:</a>
+
+</h2>
 <table>
 <thead>
 <tr>
-<th>Spalte 1</th>
+<th><a href="https://github.com/StefanScheunemann/Grundlagen-html">Stefans Grundlagen Dokument</a></th>
 
 </tr>
 </thead>
@@ -141,4 +146,6 @@ Als Neuigkeit werden in diesem Level Loops (Wiederholungen) und zufällige Param
 </tr>
 </tbody>
 </table>
-
+<p>
+<a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
+</p>
