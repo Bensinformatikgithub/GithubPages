@@ -30,7 +30,7 @@ Informatik-Projekt
 Dies ist das erste Kapitel/Level des Kurses. Hier wird einem vermittelt, warum Programmiersprachen wichtig sind und wie sie benutzt werden. Um dies zu tun muss man eine Anleitung schreiben, wie Legosteine miteinander zu verbinden sind. Diese Anleitung ist meist nicht eindeutig, da die normale Sprache auch nicht eindeutug ist. Im Gegensatz dazu muss die Programmiersprache eindeutig sein, damit der Computer (Hier der "Partner") die Befehle richtig ausführen kann und die Legosteine richtig verbunden werden, bzw. das Programm funktioniert.
 </p>
 <p>
-<a href="#Inh"> [zurück zum Inhaltsverzeichnis] </a>
+href="#Inh"> [zurück zum Inhaltsverzeichnis] 
 </p>
 <h2>
 <a id="lvl2"> Level 2: Using Simple Commands: </a>
