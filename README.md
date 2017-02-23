@@ -18,7 +18,6 @@ Informatik-Projekt
 <li><a href="#lvl5"> Level 5: APIs and Function Parameter </a></li>
 <li><a href="#lvl6"> Level 6: Creating Functions with Parameters</a></li>
 <li><a href="#lvl7"> Level 7: Looping and Random Numbers</a></li>
-<li><a href="#lvl8"> Level 10: Buttons on the Screen</a></li>
 <li><a href="#Quell"> Quellen</a></li>
 </ul>
 
